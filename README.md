@@ -1,4 +1,4 @@
-# Object_Detection-API
+# Object Detection - AI-Compare API
 ## Description
 This repositery provides code to implement [AI-Compare Object Detection API](https://www.ai-compare.com/vision_apis/object_detection). [AI-Compare Object Detection API](https://www.ai-compare.com/vision_apis/object_detection) allows to call Object Detection APIs from Google Cloud Platform Cloud Vision, AWS Rekognition, Microsoft Azure Computer Vision, and IBM Watson Visual Recognition. It permits to get results from these providers and compare the results.
 
